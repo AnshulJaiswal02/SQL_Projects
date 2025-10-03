@@ -48,4 +48,4 @@ FROM (
 ) AS ranked
 WHERE ranking <= 3
 ORDER BY category, ranking;
-
+ 
